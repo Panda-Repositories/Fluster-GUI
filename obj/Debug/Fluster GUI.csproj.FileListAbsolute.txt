@@ -1,0 +1,10 @@
+E:\Panda Development U3\Fluster GUI\obj\Debug\Fluster GUI.csproj.AssemblyReference.cache
+E:\Panda Development U3\Fluster GUI\obj\Debug\Fluster_GUI.Form1.resources
+E:\Panda Development U3\Fluster GUI\obj\Debug\Fluster_GUI.Properties.Resources.resources
+E:\Panda Development U3\Fluster GUI\obj\Debug\Fluster GUI.csproj.GenerateResource.cache
+E:\Panda Development U3\Fluster GUI\obj\Debug\Fluster GUI.csproj.CoreCompileInputs.cache
+E:\Panda Development U3\Fluster GUI\bin\Debug\FlusterPlayerInstaller.exe.config
+E:\Panda Development U3\Fluster GUI\bin\Debug\FlusterPlayerInstaller.exe
+E:\Panda Development U3\Fluster GUI\bin\Debug\FlusterPlayerInstaller.pdb
+E:\Panda Development U3\Fluster GUI\obj\Debug\FlusterPlayerInstaller.exe
+E:\Panda Development U3\Fluster GUI\obj\Debug\FlusterPlayerInstaller.pdb
